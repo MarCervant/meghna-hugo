@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: "/images/innovacion-2-2.jpg"
+  image_webp: "/images/innovacion-2-2.jpg"
   title: Mejorando la seguridad de México.
   content: Día a día mejoramos las comunidades de nuestro entorno, añadiendo tecnología
     en la vida de muchos mexiquenses.
