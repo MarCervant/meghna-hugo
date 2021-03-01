@@ -3,23 +3,11 @@ service:
   enable: true
   title: Nuestros servicios
   service_item:
-  - name: WordPress Theme
-    icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Responsive Design
-    icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: MONITOREO
     icon: ti-blackboard
     content: |-
       GPS VEHICULAR
       Además de contar con un sistema de plataforma online compatible con diferentes dispositivos GPS.
-  - name: Graphic Design
-    icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: INSTALACIÓN DE ALARMAS
     icon: ti-package
     content: |-
