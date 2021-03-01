@@ -9,10 +9,8 @@ contact:
     info: Zumpango de Ocampo
   - icon: ti-mobile
     info: 'Móvil: +52 55 7174 8569'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: ventas@tecnoinnova.com.mx/'
   contact_form:
     enable: true
     form_action: "#"
