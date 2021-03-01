@@ -32,7 +32,8 @@ service:
       Industriales
 
       Vecinales
-  - name: Networking
+  - name: IOT
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Dispositivos inteligentes, cierra tus ventanas, apaga tus luces y controla
+      tu hogar con Alexa o dispositivos. La vieja era es el touch, el futuro es la
+      interfaz de voz.
