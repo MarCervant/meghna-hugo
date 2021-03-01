@@ -1,64 +1,57 @@
-##################################### pricing ##############################
+---
 pricing:
-  enable : true
-  title : Our Plans
-  pricing_table :
-    # pricing table loop
-    - name : Free
-      price : $99
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-      
-    # pricing table loop
-    - name : Silver
-      price : $149
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-        
-    # pricing table loop
-    - name : Gold
-      price : $199
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
-        
-    # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
+  enable: true
+  title: Precios
+  pricing_table:
+  - name: Alarma normal
+    price: "$99"
+    unit: mes
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Signup
+      link: "#"
+  - name: Alarma vecinal
+    price: "$149"
+    unit: mes
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Signup
+      link: "#"
+  - name: GPS
+    price: "$199"
+    unit: mes
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Signup
+      link: "#"
+  - name: Video Monitoreo con detección rostros
+    price: "$299"
+    unit: mes
+    services:
+    - 1GB Disk Space
+    - 10 Email Account
+    - Script Installer
+    - 1 GB Storage
+    - 10 GB Bandwidth
+    - 24/7 Tech Support
+    button:
+      label: Signup
+      link: "#"
