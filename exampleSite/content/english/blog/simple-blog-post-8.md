@@ -1,18 +1,26 @@
 ---
-title: "Are You Doing the Right Way"
-date: 2018-09-12T14:51:12+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
+title: TARJETA 12V PARA NODEMCU DOMOTICA E INTERNET DE LAS COSAS 2 RELEVADORES
+date: 2020-12-26T16:00:12+00:00
+image_webp: "/images/xd.jpeg"
+image: "/images/xd-1.jpeg"
+author: Martín M
+description: https://tecnoinnova.com.mx/
+
 ---
+Tarjeta desarrollada para proyectos de domótica o internet de las cosas, controla mediante 2 relevadores y compatible con sensores así como controles de radio frecuencia, automatiza tu casa o proyectos.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Funciona con 5v hasta 12v
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+Pensada para el desarrollo de proyectos de IoT y Domótica
 
-> Design is not just what it looks like and feels like. Design is how it works.
+Conecta tu tarjeta NodeMCU Esp8266 (dev kit v2) y comienza haciendo prototipos con la amplia documentación que existe.
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+– Alimentación por medio del Jack de 5v a 12v a 1a.  
+– Salida de 3.3v y Vin (de 5v a 12v)  
+– Todos los pines disponibles de la NodeMCU Devkit V2  
+– 2 Relevadores.  
+– Entrada de AC para los Relevadores.  
+– Entradas pensadas para integrar el modulo de Radiofrecuencia y de esta manera combinar wifi con Radiofrecuencia.  
+– Entradas pensadas para DHT11 o DHT22.  
+– Entrada para potenciómetro por A0.  
+– Tamaño de 9.5cm x 5.5cm.
